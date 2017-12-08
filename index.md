@@ -49,4 +49,4 @@ This game now tells six stories side by side and showcases how stories that have
 
 ### Video walkthrough
 
-### Outreach
+### Playable build
