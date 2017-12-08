@@ -49,5 +49,5 @@ Through this game, we not only created a way to understand how stories evolve, b
 This game now tells six stories side by side and showcases how stories that have diverged throughout history can still be woven back together.
 
 ### Video walkthrough
-
+[linkname](https://www.youtube.com/watch?v=oY8sxVHRIYs)
 ### Playable build
