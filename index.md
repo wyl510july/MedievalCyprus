@@ -51,3 +51,4 @@ This game now tells six stories side by side and showcases how stories that have
 ### Video walkthrough
 [linkname](https://youtu.be/EQGm6csN_jQ)
 ### Playable build
+[Playable build](./hookjeev.pdf)
