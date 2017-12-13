@@ -49,6 +49,8 @@ Through this game, we not only created a way to understand how stories evolve, b
 This game now tells six stories side by side and showcases how stories that have diverged throughout history can still be woven back together.
 
 ### Video walkthrough
-[linkname](https://youtu.be/EQGm6csN_jQ)
+[old version](https://youtu.be/EQGm6csN_jQ)
+[new version](https://vimeo.com/247067702)
 ### Playable build
 [build stored in google drive](https://drive.google.com/open?id=1SLuNwEHR0JUwAAJ2CLyeGRdz2OXSLADT)
+[build in demo day](https://drive.google.com/file/d/1XJHv6bwRNqxObOEUGXCQyCblfs_gOw1I/view?ts=5a3072a0)
